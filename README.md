@@ -1,6 +1,6 @@
 # OPSS
 
-**OPSS (One-Pass Smart-Search)** is an algorithm for efficient maximum flow computation in time-expanded graphs, with applications to large-scale satellite networks.
+**OPSS (One-Pass Smart-Search)** is an algorithm for minimum data delivery time computation in time-expanded graphs, with applications to large-scale satellite networks.
 
 🚧 **Code will be released upon paper acceptance.**
 
